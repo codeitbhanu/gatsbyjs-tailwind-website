@@ -1,0 +1,28 @@
+{
+  "name": "gatsbyjs-tailwind-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "gatsbyjs-tailwind-website",
+  "author": "bhanu_neotech",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "license": "0BSD",
+  "dependencies": {
+    "gatsby": "^2.26.1",
+    "gatsby-plugin-postcss": "^3.4.0",
+    "postcss": "^8.2.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^2.0.2"
+  }
+}
