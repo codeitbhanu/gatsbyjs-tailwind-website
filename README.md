@@ -1,10 +1,13 @@
 <p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
+  <a href="https://www.gatsbyjs.com/">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img alt="Tailwind CSS" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.ce301590451472adad5301c69f9054af.svg" width="60" />
   </a>
 </p>
 <h1 align="center">
-  Gatsby minimal starter
+  Gatsby|React + Tailwind CSS Demo
 </h1>
 
 ## 🚀 Quick start
